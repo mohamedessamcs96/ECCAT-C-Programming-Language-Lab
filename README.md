@@ -15,4 +15,4 @@ It is a software for a a backpack store desgined for the chashier who can add th
 <br>
 <br>
 
-<Img src="ATM Banking System/ATM Bank system.png" />
+<Img src="ATM Banking System/LapTopBag Store.png" />
